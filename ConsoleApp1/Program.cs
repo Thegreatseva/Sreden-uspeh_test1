@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            int a = int.Parse(Console.ReadLne())
+            int a = int.Parse(Console.ReadLine());
         }
     }
 }
